@@ -1,11 +1,12 @@
 console.log ("Hello World");
+console.log ("Solve addition, subtraction, multiplication, division using java script");
 //    Addition
-    console.log ("Addition");
+    console.log ("Sum");
     console.log ("50+60");
     let rahim = 50;
     let korim = 60;
-     addition = rahim+korim;
-    console.log(addition);
+     sum = rahim+korim;
+    console.log(sum);
 
     // Subtraction
     console.log ("Subtraction");
