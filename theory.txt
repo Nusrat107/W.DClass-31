@@ -1,0 +1,24 @@
+
+
+50, 60
+
+
+107, 31
+
+331, 803
+
+99, 11
+
+Rules of declaring variable....
+
+Any alphabets (a, b, c, x, y, D, C)
+Any Words (numberone, numbertwo, rahim, karim, number1, number_2)
+
+numberOne, numberTwo (Camel Case)
+
+apple ghftded
+
+
+Arithmetic Operator....
+
++, -, *, /, %
